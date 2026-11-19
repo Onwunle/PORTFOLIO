@@ -176,6 +176,7 @@ a {
 .btn::before,
 .btn::after {
   content: "";
+  background-color: #F5DABF;
   position: absolute;
   z-index: 10;
   border-radius: 9999px;
@@ -218,6 +219,7 @@ a {
 }
 
 .card button {
+  background-color: #F5DABF;
   
 }
 
@@ -247,4 +249,4 @@ a {
     order: -1;
     max-width: 280px;
   }
-  
+  /*fuck it i dont undeestand it now, tmr we will chek again*/

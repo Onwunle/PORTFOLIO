@@ -251,4 +251,13 @@ a {
   }
 
     
-.github-section
+.github-section{
+  padding:24px;
+  text-align:center;
+}
+
+  .github-chart img {
+    width: 50%;
+    min-width: 550px;
+    max-width:50% ;
+    height: auto;

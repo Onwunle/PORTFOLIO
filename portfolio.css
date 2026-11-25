@@ -254,10 +254,10 @@ a {
 .github-section{
   padding:24px;
   text-align:center;
+    height: auto;
 }
 
   .github-chart img {
-    width: 50%;
-    min-width: 550px;
-    max-width:50% ;
+    min-width: 55%;
+    max-width:100% ;
     height: auto;
